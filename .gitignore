@@ -1,0 +1,6 @@
+# Ignore API keys file
+api_keys.py
+
+# Ignore specific notebook files
+nmichailos_WeatherPy.ipynb
+nmichailos_VacationPy.ipynb
