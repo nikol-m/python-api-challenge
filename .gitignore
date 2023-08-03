@@ -1,4 +1,4 @@
-# Ignore API keys file
+# Adding config.py file
 api_keys.py
 
 # Ignore specific notebook files
